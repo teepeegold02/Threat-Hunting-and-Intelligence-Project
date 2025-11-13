@@ -1,5 +1,7 @@
 # Threat-Hunting-and-Intelligence-Project
-Sector-Specific Threat Intelligence and Hunting Using MITRE ATT&amp;CK and SOC Radar
+Sector-Specific Threat Intelligence and Hunting Using MITRE ATT&amp;CK and SOC Radar.
+
+
 This project applies threat hunting and intelligence to the Information Services sector, aligning findings with MITRE ATT&CK, NIST CSF (Detect & Respond), and ISO/IEC 27001 controls.
 It focuses on two APT groups — InvisiMole (UAC-0035) and Volatile Cedar (Lebanese Cedar) — to identify common adversary behaviors, build detection logic, and strengthen incident response.
 
